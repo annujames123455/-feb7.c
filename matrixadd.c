@@ -1,3 +1,8 @@
+'''
+     author name:annu james
+      date:07/2/2025
+       the sum of first and second elemnts
+'''
 #include<stdio.h>
 int main(){
 int row,col;
