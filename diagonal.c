@@ -1,3 +1,9 @@
+'''
+auhor name:Annu James
+date:07/2/2025
+  '''
+
+
 #include<stdio.h>
   int main(){
      int row,col,j,i;
